@@ -3,7 +3,6 @@
     color: white;
     font: 20px Helvetica, arial, freesans, clean, sans-serif;
     line-height: 1.4em;
-    padding: 5px 0px 10px 00px;
     -webkit-font-smoothing: antialiased;
 }
 
@@ -43,6 +42,7 @@ h6 {
     line-height: 1.4em;
     margin: 20px 0 10px 0;
     position: relative;
+    padding: 0px 0px 10px 00px;
 }
 
 img {
