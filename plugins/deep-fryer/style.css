@@ -56,10 +56,12 @@
 .title-section h1 {
   color: #fff;
   font-size: 60px;
+  margin-bottom: -10px;
 }
-.title-section p {
+.title-section h2 {
   color: var(--color-bright-1);
-  font-size: 30px;
+  font-weight: 600;
+  font-size: 40px;
 }
 .download {
   display: block;
@@ -198,13 +200,14 @@
     max-height: 45%;
   }
   .title-section h1 {
+    margin-bottom: -5px;
     font-size: 40px;
   }
-  .download,
-  .title-section p {
-    font-size: 20px;
+  .title-section h2 {
+    font-size: 25px;
   }
   .download {
+    font-size: 20px;
     margin-top: 10px;
     border-radius: 10px;
   }
