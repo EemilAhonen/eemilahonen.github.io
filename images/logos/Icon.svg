@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE svg  PUBLIC '-//W3C//DTD SVG 1.1//EN'  'http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd'>
-<svg clip-rule="evenodd" fill-rule="evenodd" stroke-linejoin="round" stroke-miterlimit="2" version="1.1" viewBox="0 0 336 336" xml:space="preserve" xmlns="http://www.w3.org/2000/svg">
-    <g transform="translate(-100 -251)" fill="#fff">
-        <path d="m126 587 155-155 155 155h-310z"/>
-        <path d="m100 587v-152l184-184h152l-336 336z"/>
-        <path d="m100 409v-158h158l-158 158"/>
-    </g>
-</svg>
